@@ -1,5 +1,5 @@
 //DNA Tester release R2.4
-//Update per acutal PCB layout
+//Update per acutal P(test delete C)B layout
 //Adding Bluetooth Write - R1.0
 //Adding Bluetooth Read - R1.2
 //During start-up phase, turn off heater by init PWM first, then adding delay at start-up before enabling BOD - r1.4
